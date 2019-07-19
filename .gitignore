@@ -2,3 +2,5 @@
 **/*.vim
 data/
 **/*.csv
+.project
+.spyproject
